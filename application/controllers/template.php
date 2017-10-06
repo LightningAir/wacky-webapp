@@ -15,8 +15,8 @@
                 <span class="mynav">
                     <ul>
                         <li><a href="/">Home</a></li>
-                        <li><a href="/gallery">Flights</a></li>
-                        <li><a href="/about">Fleet</a></li>
+                        <li><a href="/flights">Flights</a></li>
+                        <li><a href="/fleet">Fleet</a></li>
                     </ul>
                 </span>
             </div>
