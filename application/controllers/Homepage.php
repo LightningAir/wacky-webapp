@@ -11,7 +11,7 @@ class Homepage extends Application
     public function index()
     {
         $this->data['pagebody'] = 'homepage';
-        $this->data['fleetsize'] = $this->fleet->size();
+        $this->data['fleetsize'] = $this->fleetModel->size();
         $this->render();
     }
 
