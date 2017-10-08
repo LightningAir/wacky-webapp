@@ -4,11 +4,11 @@ body {}
 #footer {font-size: small; font-style:italic;text-align:center;}
 .row>div {margin-bottom:10px;}
 
-#flightTable {
+table {
     width: 80%;
     margin: 5% 20%;
 }
 
-#flightTable th {
+th {
     text-align: left;
 }
